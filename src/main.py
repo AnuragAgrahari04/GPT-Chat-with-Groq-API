@@ -145,3 +145,4 @@ if user_prompt:
             st.markdown(f"🤖 {reply}")
     else:
         st.error(f"❌ API Error {response.status_code}: {response.text}")
+# kuch nhi bhai bss streak banane ke liye bakch*di kr rha
